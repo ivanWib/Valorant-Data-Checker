@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Valorant-Data-Checker/static/css/main.31d6cfe0.css",
-    "main.js": "/Valorant-Data-Checker/static/js/main.ceda02f6.js",
+    "main.js": "/Valorant-Data-Checker/static/js/main.1f40c16e.js",
     "static/js/787.3a006718.chunk.js": "/Valorant-Data-Checker/static/js/787.3a006718.chunk.js",
     "index.html": "/Valorant-Data-Checker/index.html",
-    "main.ceda02f6.js.map": "/Valorant-Data-Checker/static/js/main.ceda02f6.js.map",
+    "main.1f40c16e.js.map": "/Valorant-Data-Checker/static/js/main.1f40c16e.js.map",
     "787.3a006718.chunk.js.map": "/Valorant-Data-Checker/static/js/787.3a006718.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ceda02f6.js"
+    "static/js/main.1f40c16e.js"
   ]
 }
