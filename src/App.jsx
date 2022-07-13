@@ -13,7 +13,7 @@ function App() {
     <Mydata.Provider value={{ userData, setUserData, mmr, setMmr }}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<DataUrl />} />
+          <Route exact path="/" element={<DataUrl />} />
           <Route path="/Card" element={<Card />} />
         </Routes>
       </BrowserRouter>

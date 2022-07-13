@@ -9,7 +9,7 @@ import {
   Text,
   Stack,
   Button,
-  useColorModeValue
+  useColorModeValue,
 } from "@chakra-ui/react";
 import { Mydata } from "./App";
 import { useNavigate } from "react-router-dom";
@@ -36,10 +36,7 @@ function Card() {
           rounded={"md"}
           overflow={"hidden"}
         >
-          <Image
-            src={data.userData?.card.wide}
-            objectFit={"cover"}
-          />
+          <Image src={data.userData?.card.wide} objectFit={"cover"} />
           <Flex justify={"center"} mt={-12}>
             <Avatar
               size={"xl"}
