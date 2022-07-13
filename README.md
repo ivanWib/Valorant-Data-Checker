@@ -1,4 +1,4 @@
 ### Valorant Data Checker
 
 Link :
-valorant-data-checker.vercel.app
+https://valorant-data-checker.vercel.app/
